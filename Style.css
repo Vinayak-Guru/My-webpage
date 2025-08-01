@@ -11,5 +11,11 @@ body{
 }
 th,p{
     color: rgb(0, 0, 0);
+}
 
+
+
+
+body{
+    background: linear-gradient(to right,  rgb(25, 174, 233),rgb(155, 223, 255));
 }
